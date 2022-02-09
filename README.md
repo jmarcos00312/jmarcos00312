@@ -18,7 +18,7 @@
 - 🏢 I'm currently **looking for work**
 - ⚙️ I use daily: `.Ruby on Rails`, `.React`, `.python`,`.html`, `.css`
 - 🌍 I'm mostly active in [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
-- 💅 Projects: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💻 Projects: , [Web Basketball Association](https://wba-jmarcos.herokuapp.com/), [Christmas-themed hangman game](https://djm-hangman.herokuapp.com/), [Sneaker Showcase](https://github.com/jmarcos00312/sneaker-showcase-app), etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, ** web development**, **Backend**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
