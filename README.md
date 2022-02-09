@@ -23,6 +23,7 @@
 - 💬 Ping me about **design**, **web development**, **Backend**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
 - ⚡️ Fun fact: I am a big fun of Los Angeles Lakers
+- 📧 Email at ```jeremiahmarcos27@outlook.com``` or at ```jeremiahkmarcos@gmail.com```
  # :memo: [Blog](https://medium.com/@jeremiahmarcos27) :card_index: [Portfolio](https://jeremiahmarcos.netlify.app/) :email: `jeremiahmarcos27@outlook.com` .
  
 
