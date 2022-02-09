@@ -20,7 +20,7 @@
 - 🌍 I'm mostly active in [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
 - 💻 Projects: , [Web Basketball Association](https://wba-jmarcos.herokuapp.com/), [Christmas-themed hangman game](https://djm-hangman.herokuapp.com/), [Sneaker Showcase](https://github.com/jmarcos00312/sneaker-showcase-app), etc…
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, ** web development**, **Backend**
+- 💬 Ping me about **design**, **web development**, **Backend**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
 - ⚡️ Fun fact: I am a big fun of Los Angeles Lakers
  # :memo: [Blog](https://medium.com/@jeremiahmarcos27) :card_index: [Portfolio](https://jeremiahmarcos.netlify.app/) :email: `jeremiahmarcos27@outlook.com` .
