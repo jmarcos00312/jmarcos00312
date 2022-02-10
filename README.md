@@ -16,7 +16,7 @@
 ##### BIO
 
 - 🏢 I'm currently **looking for work**
-- ⚙️ I use daily: `.Ruby on Rails`, `.React`, `.python`,`.html`, `.css`
+- ⚙️ I use daily: `Ruby on Rails`, `React`, `python`,`html`, `css`
 - 🌍 I'm mostly active in [LinkedIn](https://www.linkedin.com/in/jeremiahmarcos/)
 - 💻 Projects: , [Web Basketball Association](https://wba-jmarcos.herokuapp.com/), [Christmas-themed hangman game](https://djm-hangman.herokuapp.com/), [Sneaker Showcase](https://github.com/jmarcos00312/sneaker-showcase-app), etc…
 - 🌱 Learning all about **Open Source**
